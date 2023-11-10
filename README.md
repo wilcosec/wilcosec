@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Taylor W, aka WilcoSec. I'm all about securing the cloud at enterprise scale. 
+
 <!--
 **wilcosec/wilcosec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
